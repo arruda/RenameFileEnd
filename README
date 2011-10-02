@@ -1,0 +1,7 @@
+Como funciona:
+./arpon_rename.py "caminho_completo/para o diretorio" "o que sera incluido no final"
+
+Ex:
+./arpon_rename.py "/home/usuario/Imagens/minhas imagens" "-32.jpg"
+
+Isso fara com que todos os arquivos de todas as pastas do caminho: "/home/usuario/Imagens/minhas imagens" terminem com "-32.jpg".
